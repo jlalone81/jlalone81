@@ -15,6 +15,7 @@ My journey pulled me away from the tech industry and cybersecurity for a while, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Security Audit                                | <a href="https://github.com/jlalone81/Security-audit/tree/main">Security Audit</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -56,6 +57,7 @@ My journey pulled me away from the tech industry and cybersecurity for a while, 
 </div>
 
 ## Projects
+- <a href="https://github.com/jlalone81/Security-audit/tree/main">Detection Lab</a>
 - Detection Lab
 - SOC Automation Project
 
